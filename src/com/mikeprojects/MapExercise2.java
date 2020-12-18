@@ -20,7 +20,6 @@ public class MapExercise2 {
              return items;
     };
 
-
     public static void main(String args[]) {
 
        String [] itemlist = {"computer","printer,","mouse","monotor,","keyboard","printer"};
@@ -30,13 +29,11 @@ public class MapExercise2 {
 
         for ( int i = 0 ; i <  items; i++)
         {
-            ht.put(itemlist[i],i);ls
+            ht.put(itemlist[i],i);
         }
 
           carList(ht);
-
-
-
+        System.out.println("Hello world");
     }
 
 
