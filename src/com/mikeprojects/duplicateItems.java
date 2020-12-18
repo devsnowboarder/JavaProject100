@@ -7,12 +7,10 @@ import java.util.Iterator;
 
 public class duplicateItems
 {
-
-
+    // this is use a hashset to look for duplicate
     public static ArrayList<String>  duplicateNumber(ArrayList<String> Elements) {
 
         HashSet<String>  set =new HashSet<String>(Elements);
-
         ArrayList<String> dup = new ArrayList<>();
 
 
