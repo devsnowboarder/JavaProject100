@@ -9,8 +9,6 @@ public class frequency {
 
         String str = "This is a test Hello world";
        // Integer[] num =[1,3,4,6,1,4,6,9,12];
-
-
         char[] charStr = str.toCharArray();
 
         ArrayList<String> charList = new ArrayList<>();
@@ -23,6 +21,8 @@ public class frequency {
 
         for ( String x2: strSet)
             System.out.println(x2+ " "+ Collections.frequency(charList,x2));
+
+        System.out.println("Hello World");
 
     }
 }
