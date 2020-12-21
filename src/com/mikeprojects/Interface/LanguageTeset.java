@@ -4,6 +4,8 @@ package com.mikeprojects.Interface;
 // create an interface
 interface Language {
     void getName(String name);
+
+
 }
 
 // class implements interface
