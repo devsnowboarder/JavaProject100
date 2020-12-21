@@ -5,7 +5,7 @@ import java.util.*;
 
 public class HashExercise {
 
-
+  // method for the sortlist
     public static List<Character> sortList ( char [] list) {
         Set <Character> set  = new HashSet<>();
 
