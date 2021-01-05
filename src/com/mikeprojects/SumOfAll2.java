@@ -11,7 +11,6 @@ class SumOfAll2
 
         // To store the required sum
         int sum = 0;
-
         // For every element of the array
         for (int i = 0; i < n; i++)
         {
