@@ -62,8 +62,10 @@ public class firstLetterString {
         }
 
     }
+
+    /*
     // Driver code
-    public static void main(String[] args)
+    public static <character> void main(String[] args)
     {
         character firstChar = new character();
 
@@ -73,6 +75,6 @@ public class firstLetterString {
         character.firstLetterChar("Hello World This is a test");
 
     }
-
+*/
 }
 
