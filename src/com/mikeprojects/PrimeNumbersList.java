@@ -7,7 +7,7 @@ import utility.mathFunction;
 
 
 
-class PrimeNumbers
+class PrimeNumbersList
 {
 
     public static String  primeNumber(Integer n) {
@@ -45,7 +45,7 @@ class PrimeNumbers
          mathFunction  mathSolution = new mathFunction();
 
         System.out.println("Prime numbers from 1 to 100 are :");
-        PrimeNumbers.primeNumber(100);
+        PrimeNumbersList.primeNumber(100);
 
         mathSolution.primeNumber(100);
 
