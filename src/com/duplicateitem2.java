@@ -1,4 +1,4 @@
-package com.mikeprojects;
+package com;
 import utility.charList;
 
 import java.util.*;
