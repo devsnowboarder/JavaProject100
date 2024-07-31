@@ -1,4 +1,4 @@
-package com;
+package JavaProject100;
 import utility.charList;
 
 import java.util.*;

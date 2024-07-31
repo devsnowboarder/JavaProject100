@@ -1,5 +1,3 @@
-package com;
-
 import java.util.Arrays;
 import java.util.HashSet;
 import utility.anagramString;
@@ -20,9 +18,6 @@ public class AnagramString {
         } else {
             char[] ArrayS1 = s1.toLowerCase().toCharArray();
             char[] ArrayS2 = s2.toLowerCase().toCharArray();
-
-
-
 
             Arrays.sort(ArrayS1);
             Arrays.sort(ArrayS2);

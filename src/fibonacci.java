@@ -1,4 +1,5 @@
-package com;
+package  JavaProject100;
+
 
 import utility.baseState;
 import utility.mathFunction;

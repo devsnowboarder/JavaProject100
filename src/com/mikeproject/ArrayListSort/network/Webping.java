@@ -1,4 +1,4 @@
-package com.network;
+package com.mikeproject.ArrayListSort.network;
 
 import java.net.InetAddress;
 import java.net.Socket;
